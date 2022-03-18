@@ -13,6 +13,7 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 
 1. RL Part :
 - https://github.com/utiasDSL/gym-pybullet-drones
+- https://github.com/AboudyKreidieh/h-baselines
 
 2. ROS part :
 - DRDO Inter IIT Files
