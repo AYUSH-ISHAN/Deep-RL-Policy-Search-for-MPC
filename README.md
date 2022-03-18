@@ -17,3 +17,7 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 
 2. ROS part :
 - DRDO Inter IIT Files
+
+# In two part ..
+
+First the H_MARL approach and then release the ROS extensions.
