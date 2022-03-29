@@ -17,6 +17,7 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 
 2. RL and MPC Part :
 - https://github.com/uzh-rpg/high_mpc
+- https://www.youtube.com/watch?v=Qei7oGiEIxY  Video to understand the above papers
 
 3. ROS part :
 - DRDO Inter IIT Files
