@@ -21,6 +21,7 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 
 3. ROS part :
 - DRDO Inter IIT Files
+- https://github.com/ethz-asl/mav_control_rw  [Ros + Controls]
 
 # In two part ..
 
