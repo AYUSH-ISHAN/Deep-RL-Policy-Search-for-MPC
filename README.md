@@ -18,34 +18,34 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 - [17] P. Dayan and G. Hinton, “Feudal reinforcement learning,”
 Advances in Neural Information Processing Systems, vol. 5,
 p. 9, 2000.<br>
-[18] S. Ahilan and P. Dayan, “Feudal multi-agent hierarchies for
+- [18] S. Ahilan and P. Dayan, “Feudal multi-agent hierarchies for
 cooperative reinforcement learning,” in Annual Conference
 of the American Library Association, 2019, http://arxiv.org/
 abs/1901.08492.<br>
-[19] Q. Yang, Y. Zhu, J. Zhang, S. Qiao, and J. Liu, Eds., “UAV air
+- [19] Q. Yang, Y. Zhu, J. Zhang, S. Qiao, and J. Liu, Eds., “UAV air
 combat autonomous maneuver decision based on ddpg algo-
 rithm,” in 2019 IEEE 15th International Conference on Control
 and Automation (ICCA), pp. 37–42, Edinburgh, UK, July 2019.<br>
-[20] S. Xuan and L. Ke, “Study on attack-defense countermeasure
+- [20] S. Xuan and L. Ke, “Study on attack-defense countermeasure
 of UAV swarms based on multi-agent reinforcement learn-
 ing,” Radio Engineering, vol. 51, pp. 360–366, 2021.<br>
-[21] S. Xuan and L. Ke, “UAV swarm attack-defense confrontation
+- [21] S. Xuan and L. Ke, “UAV swarm attack-defense confrontation
 based on multi-agent reinforcement learning,” in Advances in
 Guidance, Navigation and Control. Lecture Notes in Electrical
 Engineering, vol 644, L. Yan, H. Duan, and X. Yu, Eds.,
 Springer, Singapore, 2020.<br>
-[22] I. Mordatch and P. Abbeel, “Emergence of grounded composi-
+- [22] I. Mordatch and P. Abbeel, “Emergence of grounded composi-
 tional language in multi-agent populations,” 2017, http://arxiv
 .org/abs/1703.04908.<br>
-[23] M. L. Littman, “Markov games as a framework for multi-agent
+- [23] M. L. Littman, “Markov games as a framework for multi-agent
 reinforcement learning,” in Proceedings of the Eleventh Inter-
 national Conference, Rutgers University, pp. 157–163, New
 Brunswick, NJ, USA, July 1994.<br>
-[24] W. Kim, M. Cho, and Y. Sung, “Message-dropout: an efficient
+- [24] W. Kim, M. Cho, and Y. Sung, “Message-dropout: an efficient
 training method for multi-agent deep reinforcement learning,”
 Proceedings of the AAAI Conference on Artificial Intelligence,
 vol. 33, pp. 6079–6086, 2019.<br>
-[25] C. Yu, A. Velu, E. Vinitsky, Y. Wang, A. Bayen, and Y. Wu,
+- [25] C. Yu, A. Velu, E. Vinitsky, Y. Wang, A. Bayen, and Y. Wu,
 “The surprising effectiveness of mappo in cooperative, multi-
 agent games,” 2021, http://arxiv.org/abs/2103.01955.<br>
 
