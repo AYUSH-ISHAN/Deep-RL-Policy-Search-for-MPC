@@ -22,8 +22,10 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 - https://github.com/utiasDSL/safe-control-gym [**Important Repo**]  <br> Here, ion this put the files from Pybullet drone gym official ..
 https://github.com/utiasDSL/safe-control-gym/tree/main/safe_control_gym/envs/gym_pybullet_drones    So, that we can connect MARL with the MPC
 
+3. Mutliagent approach: 
+- https://github.com/CORE-Robotics-Lab/MAGIC
 
-3. ROS part :
+5. ROS part :
 - DRDO Inter IIT Files
 - https://github.com/ethz-asl/mav_control_rw  [Ros + Controls]
 
