@@ -8,6 +8,7 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
   <li>Confronatation env -->  Use competitive RL, H-MADDPG as found in paper</li>
 </ol>
 
+# Use MPC.Pytorch for MPC and for RL algos use the baselines and Ray type thing. 
 
 # Resources :
 
