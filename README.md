@@ -1,6 +1,5 @@
 # UAV-Confrontation-using-H-MARL
 This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforcement Learning
-# Look at A* and other algorithms
 
 # Make it a bidriectional project..
 <ol>
@@ -9,7 +8,7 @@ This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforce
 </ol>
 
 # Use MPC.Pytorch for MPC and for RL algos use the baselines and Ray type thing. 
-
+https://github.com/locuslab/mpc.pytorch
 # Resources :
 
 1. RL Part :
