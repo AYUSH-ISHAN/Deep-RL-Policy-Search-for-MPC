@@ -1,3 +1,7 @@
+# Work on 8 tracing of drone in fly.py
+# If takes lots of time. Go for other task like Dataset collection and MPC fitting and then RL. But try the 8 shape in between. 
+
+
 # UAV-Confrontation-using-H-MARL
 This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforcement Learning
 
