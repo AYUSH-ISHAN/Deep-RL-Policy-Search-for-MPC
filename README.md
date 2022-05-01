@@ -1,3 +1,4 @@
+# For 8 we have Normal Circle + Backward Circle (in positive x) = 8
 # Work on 8 tracing of drone in fly.py
 # If takes lots of time. Go for other task like Dataset collection and MPC fitting and then RL. But try the 8 shape in between. 
 
