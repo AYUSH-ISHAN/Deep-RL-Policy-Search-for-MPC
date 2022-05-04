@@ -1,6 +1,5 @@
-# For 8 we have Normal Circle + Backward Circle (in positive x) = 8
-# Work on 8 tracing of drone in fly.py
-# If takes lots of time. Go for other task like Dataset collection and MPC fitting and then RL. But try the 8 shape in between. 
+# Try with ans without Gaussian. 
+Without gaussiam means.. Vanilla MPC dataset.. Trained on RL.. With directly mean squared error as reward aur custom reward
 
 
 # UAV-Confrontation-using-H-MARL
