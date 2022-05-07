@@ -1,7 +1,7 @@
 # Try with ans without Gaussian. 
 Without gaussiam means.. Vanilla MPC dataset.. Trained on RL.. With directly mean squared error as reward aur custom reward
 
-
+# Different Swarm based algorithm like Dragon fly algo, Grasshopper algo
 # UAV-Confrontation-using-H-MARL
 This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforcement Learning
 
