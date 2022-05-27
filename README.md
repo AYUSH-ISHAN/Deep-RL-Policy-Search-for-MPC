@@ -8,8 +8,7 @@ Ideally, the control framework should be able to combine the advantages of both 
 significant challenge.
 
 # The Algorithm :
-
-
+<p align="center"><img src = "./media/1.png"/></p>
 
 
 
