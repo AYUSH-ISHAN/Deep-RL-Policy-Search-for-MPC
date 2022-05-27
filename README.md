@@ -25,6 +25,12 @@ Since, it is a well known fact that big bulkier models are computationally expen
 
 
 
+# Results : 
+
+<p align="center"><img src="./media/drone_perf.gif"/></p>
+
+
+
 
 
 
