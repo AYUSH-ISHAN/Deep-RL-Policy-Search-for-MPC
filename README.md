@@ -22,11 +22,12 @@ Make both figure in one figure. With arrows or more dynamic look.. May be that m
 
 ## Detailed flow diagram of algorithm :
 
-<p align = "center"><img src = "./media/Algorithm.jpg"/><br><em>Detail Flow diagram of Algorithm : The left side diagram represents learning of Gaussain Policy while the data collection process while right side represnts the whole Algorithm.
+<p align = "center"><img src = "./media/Algorithm.jpg"/><br><em>Detail Flow diagram of Algorithm : The left side diagram represents learning of Gaussain Policy while the data collection process while right side represnts the whole Algorithm.</em></p>
 
 <br>
   
-# RL Policy :
+# RL Policy (Under Policy Training in right side diagram) :
+<p align="center"><img src="./media/NN.png"/><em>Pictorial Representation for RL Policy used (not actual just representation)</em></p>
 Since, it is a well known fact that big bulkier models are computationally expensive and easily suffer from overfit while the thinner models are hard to generalise, especially in the case of Multi Agent extension of this project. Therefore, it make sense to use a mid way of both. I have used a three Dense layers model with relu as activation as the Policy.
 
 # Results : 
