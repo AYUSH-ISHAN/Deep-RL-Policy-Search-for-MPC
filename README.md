@@ -3,7 +3,7 @@ The combination of policy search and deep neural networks holds the promise of a
 
 # Introduction :
 In practice, the closed-loop performance of MPC for a specific task is sensitive to several design choices, including cost function formulation,2 hyperparameters, and the prediction horizon. As a result, a series of approximations, heuristics, and parameter tuning is
-employed, producing sub-optimal solutions. On the other hand, reinforcement learning (RL) [19] methods, like policy search, allow solving continuous control problems with minimum prior knowledge about the task. The key idea of RL is to automatically train the policy via trial and error and maximize the task performance measured by the given reward function. While RL has achieved impressive results in solving a wide range of robot control tasks, the lack of interpretability of an end-to-end controller trained using RL is of significant concern by the control community.
+employed, producing sub-optimal solutions. On the other hand, reinforcement learning (RL) methods, like policy search, allow solving continuous control problems with minimum prior knowledge about the task. The key idea of RL is to automatically train the policy via trial and error and maximize the task performance measured by the given reward function. While RL has achieved impressive results in solving a wide range of robot control tasks, the lack of interpretability of an end-to-end controller trained using RL is of significant concern by the control community.
 Ideally, the control framework should be able to combine the advantages of both methods—the ability of model-based controllers, like MPC, to safely control a physical robot using the well-established knowledge in dynamic modeling and optimization and the power of RL to learn complex policies using experienced data automatically. Therefore, the resulting control framework can handle large-scale inputs, reduce human-in-the-loop design and tuning, and eventually achieve adaptive and optimal control performance. Despite these valuable features, designing such a system remains a
 significant challenge.
 
@@ -52,6 +52,6 @@ Since, it is a well known fact that big bulkier models are computationally expen
 
 # Future Work:
   
-As mentioned above, this project is a long run project which is to be scaled upto multi agent system and it possible in hardwares too.
+As mentioned above, this project is a long run project which is to be scaled upto multi agent system and if possible in hardwares too.
 Any collaboration or PR will be highly appreciated.
 
