@@ -14,91 +14,16 @@ Make both figure in one figure. With arrows or more dynamic look.. May be that m
 <p align="center"><img src = "./media/1.png"/><br><em>Overview of Algorithm in Brief</em></p>
 <br>
 
-<p align="center">The training of the Gaussian Policy guided by the MPC in detail in shown in below flowchart.</p>
-<br>
-<p align="center"><img src="./media/Algo2.jpg" height = "600" width = "600"/><br><em>Overview of Dataset making in Detail</em></p>
+## Detailed flow diagram of algorithm :
 
-<p align="center">The following flowchart gives a good overview of the algorithm I have used in this project.</p>
+<p align = "center"><img src = "./media/Algorithm.jpg"/><br><em>Detail Flow diagram of Algorithm : The left side diagram represents learning of Gaussain Policy while the data collection process while right side represnts the whole Algorithm.
+
 <br>
-<p align="center"><img src="./media/Algo1.jpg" height = "600" width = "600"/><br><em>Overview of Algorithm in Detail</em></p>
-<br>
+  
 # RL Policy :
 Since, it is a well known fact that big bulkier models are computationally expensive and easily suffer from overfit while the thinner models are hard to generalise, especially in the case of Multi Agent extension of this project. Therefore, it make sense to use a mid way of both. I have used a three Dense layers model with relu as activation as the Policy.
-
-
-
-
 
 # Results : 
 
 <p align="center"><img src="./media/drone_perf.gif"/></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Try with ans without Gaussian. 
-Without gaussiam means.. Vanilla MPC dataset.. Trained on RL.. With directly mean squared error as reward aur custom reward
-
-# Different Swarm based algorithm like Dragon fly algo, Grasshopper algo
-# UAV-Confrontation-using-H-MARL
-This repo is related to UAV Confrontation using Heirarchial MultiAgent Reinforcement Learning
-
-# Make it a bidriectional project..
-<ol>
-  <li>Cooperative Env -->  Form clustering, try out A2C type architecture</li>
-  <li>Confronatation env -->  Use competitive RL, H-MADDPG as found in paper</li>
-</ol>
-
-# Use MPC.Pytorch for MPC and for RL algos use the baselines and Ray type thing. 
-https://github.com/locuslab/mpc.pytorch
-# Resources :
-
-1. RL Part :
-- https://github.com/utiasDSL/gym-pybullet-drones  [Contains 2 papers -- really important papers]
-- https://github.com/AboudyKreidieh/h-baselines
-- https://github.com/Jackiemesser/Autonomous-UAVs  [Can see this ]
-- See the papers listed in the paper uploaded in the github
-
-2. RL and MPC Part :
-- https://github.com/uzh-rpg/high_mpc     https://www.youtube.com/watch?v=Qei7oGiEIxY  Video to understand the papers in this link
-- https://github.com/utiasDSL/safe-control-gym [**Important Repo**]  <br> Here, ion this put the files from Pybullet drone gym official ..
-https://github.com/utiasDSL/safe-control-gym/tree/main/safe_control_gym/envs/gym_pybullet_drones    So, that we can connect MARL with the MPC
-
-3. Mutliagent approach: 
-- https://github.com/CORE-Robotics-Lab/MAGIC
-
-5. ROS part :
-- DRDO Inter IIT Files
-- https://github.com/ethz-asl/mav_control_rw  [Ros + Controls]
-
-# In two part ..
-
-First the H_MARL approach and then release the ROS extensions.
