@@ -48,7 +48,7 @@ Since, it is a well known fact that big bulkier models are computationally expen
 **[5.]** Brandon Amos, J. Zico Kolter OptNet: Differentiable Optimization as a Layer in Neural Networks<br>
 **[6.]** Jacopo Panerati (1 and 2), Hehui Zheng (3), SiQi Zhou (1 and 2), James Xu (1), Amanda Prorok (3), Angela P. Schoellig (1 and 2) ((1) University of Toronto Institute for Aerospace Studies, (2) Vector Institute for Artificial Intelligence, (3) University of Cambridge) Learning to Fly -- a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control<br>
 **[7.]** Brandon Amos, Ivan Dario Jimenez Rodriguez, Jacob Sacks, Byron Boots, J. Zico Kolter Differentiable MPC for End-to-end Planning and Control
-
+**[8.]** Ahmad Taher Azar, Anis Koubaa, Nada Ali Mohamed, Habiba A. Ibrahim, Zahra Fathy Ibrahim, Muhammad Kazim, Adel Ammar, Bilel Benjdira, Alaa M. Khamis, Ibrahim A. Hameed and Gabriella Casalino : Drone Deep Reinforcement Learning: A Review
 
 # Future Work:
   
