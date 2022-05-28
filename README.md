@@ -7,6 +7,12 @@ employed, producing sub-optimal solutions. On the other hand, reinforcement lear
 Ideally, the control framework should be able to combine the advantages of both methods—the ability of model-based controllers, like MPC, to safely control a physical robot using the well-established knowledge in dynamic modeling and optimization and the power of RL to learn complex policies using experienced data automatically. Therefore, the resulting control framework can handle large-scale inputs, reduce human-in-the-loop design and tuning, and eventually achieve adaptive and optimal control performance. Despite these valuable features, designing such a system remains a
 significant challenge.
 
+# Simulation and Packages:
+
+For simulation I have <a href="https://github.com/utiasDSL/gym-pybullet-drones">gym-pybullet-drones</a> and for MPC I have used <a href="https://github.com/locuslab/mpc.pytorch">MPC.Pytorch</a> provided by LucasLab. The RL part is also done in Pytorch to decrease the training time by 1.46 times (as compared to tensorflow).
+
+<p align="center"><img src="./media/mpc.png"/></p>
+
 # The Algorithm :
 
 Make both figure in one figure. With arrows or more dynamic look.. May be that makes it more good. Q
