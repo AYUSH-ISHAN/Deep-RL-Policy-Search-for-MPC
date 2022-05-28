@@ -13,14 +13,15 @@ Make both figure in one figure. With arrows or more dynamic look.. May be that m
 
 <p align="center"><img src = "./media/1.png"/><br><em>Overview of Algorithm in Brief</em></p>
 <br>
-<p align="center">The following flowchart gives a good overview of the algorithm I have used in this project.</p>
-<br>
-<p align="center"><img src="./media/Algo1.jpg" height = "600" width = "600"/><br><em>Overview of Algorithm in Detail</em></p>
-<br>
+
 <p align="center">The training of the Gaussian Policy guided by the MPC in detail in shown in below flowchart.</p>
 <br>
 <p align="center"><img src="./media/Algo2.jpg" height = "600" width = "600"/><br><em>Overview of Dataset making in Detail</em></p>
 
+<p align="center">The following flowchart gives a good overview of the algorithm I have used in this project.</p>
+<br>
+<p align="center"><img src="./media/Algo1.jpg" height = "600" width = "600"/><br><em>Overview of Algorithm in Detail</em></p>
+<br>
 # RL Policy :
 Since, it is a well known fact that big bulkier models are computationally expensive and easily suffer from overfit while the thinner models are hard to generalise, especially in the case of Multi Agent extension of this project. Therefore, it make sense to use a mid way of both. I have used a three Dense layers model with relu as activation as the Policy.
 
