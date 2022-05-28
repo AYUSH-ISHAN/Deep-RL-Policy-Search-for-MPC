@@ -21,16 +21,37 @@ Make both figure in one figure. With arrows or more dynamic look.. May be that m
 <br>
 
 ## Detailed flow diagram of algorithm :
-
+Since, this project is a three stage project.
+<ol>
+  <li>Make a single drone basic but responsive and easily and generalizable pipline.</li>
+  <li>Make a swarm drone system where each drone is supported by such seperated trained RL polices.</li>
+  <li>Make a hardware implementation of this project (This was the main reason behind using a easy to implement and learn algorithm)</li>
+</ol>
 <p align = "center"><img src = "./media/Algorithm.jpg"/><br><em>Detail Flow diagram of Algorithm : The left side diagram represents learning of Gaussain Policy while the data collection process while right side represnts the whole Algorithm.</em></p>
 
 <br>
   
-# RL Policy (Under Policy Training in right side diagram) :
-<p align="center"><img src="./media/NN.png"/><em>Pictorial Representation for RL Policy used (not actual just representation)</em></p>
+# RL Policy (Under Policy Training in right side diagram)
+<p align="center"><img src="./media/NN.jpg"/><br><em>Pictorial Representation for RL Policy used (not actual just representation)</em></p>
 Since, it is a well known fact that big bulkier models are computationally expensive and easily suffer from overfit while the thinner models are hard to generalise, especially in the case of Multi Agent extension of this project. Therefore, it make sense to use a mid way of both. I have used a three Dense layers model with relu as activation as the Policy.
 
 # Results : 
 
 <p align="center"><img src="./media/drone_perf.gif"/></p>
+
+# Future Work:
+  
+As mentioned above, this project is a long run project which is to be scaled upto multi agent system and it possible in hardwares too.
+Any collaboration or PR will be highly appreciated.
+
+# Resources:
+
+**[1.]** Y. Song and D. Scaramuzza, "Policy Search for Model Predictive Control with Application to Agile Drone Flight," IEEE Transaction on Robotics (T-RO), 2021.<br>
+**[2.]** Y. Song and D. Scaramuzza, "Learning High-Level Policies for Model Predictive Control," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, 2020.<br> 
+**[3.]** Aravind Venugopal 1 , Elizabeth Bondi 2 , Harshavardhan Kamarthi 3 , Keval Dholakia 1 , Balaraman Ravindran 1 , Milind Tambe 2 Reinforcement Learning for Unified Allocation and Patrolling in Signaling Games with Uncertainty<br>
+**[4.]** Baolai Wang , Shengang Li ,Xianzhong Gao ,and Tao Xie UAV Swarm Confrontation Using Hierarchical Multiagent Reinforcement Learning<br>
+**[5.]** Brandon Amos, J. Zico Kolter OptNet: Differentiable Optimization as a Layer in Neural Networks<br>
+**[6.]** Jacopo Panerati (1 and 2), Hehui Zheng (3), SiQi Zhou (1 and 2), James Xu (1), Amanda Prorok (3), Angela P. Schoellig (1 and 2) ((1) University of Toronto Institute for Aerospace Studies, (2) Vector Institute for Artificial Intelligence, (3) University of Cambridge) Learning to Fly -- a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control<br>
+**[7.]** Brandon Amos, Ivan Dario Jimenez Rodriguez, Jacob Sacks, Byron Boots, J. Zico Kolter Differentiable MPC for End-to-end Planning and Control
+
 
