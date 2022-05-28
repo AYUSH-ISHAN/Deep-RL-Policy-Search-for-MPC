@@ -39,11 +39,6 @@ Since, it is a well known fact that big bulkier models are computationally expen
 
 <p align="center"><img src="./media/drone_perf.gif"/></p>
 
-# Future Work:
-  
-As mentioned above, this project is a long run project which is to be scaled upto multi agent system and it possible in hardwares too.
-Any collaboration or PR will be highly appreciated.
-
 # Resources:
 
 **[1.]** Y. Song and D. Scaramuzza, "Policy Search for Model Predictive Control with Application to Agile Drone Flight," IEEE Transaction on Robotics (T-RO), 2021.<br>
@@ -54,4 +49,9 @@ Any collaboration or PR will be highly appreciated.
 **[6.]** Jacopo Panerati (1 and 2), Hehui Zheng (3), SiQi Zhou (1 and 2), James Xu (1), Amanda Prorok (3), Angela P. Schoellig (1 and 2) ((1) University of Toronto Institute for Aerospace Studies, (2) Vector Institute for Artificial Intelligence, (3) University of Cambridge) Learning to Fly -- a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control<br>
 **[7.]** Brandon Amos, Ivan Dario Jimenez Rodriguez, Jacob Sacks, Byron Boots, J. Zico Kolter Differentiable MPC for End-to-end Planning and Control
 
+
+# Future Work:
+  
+As mentioned above, this project is a long run project which is to be scaled upto multi agent system and it possible in hardwares too.
+Any collaboration or PR will be highly appreciated.
 
