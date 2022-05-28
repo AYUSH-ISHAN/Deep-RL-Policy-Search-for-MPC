@@ -8,6 +8,9 @@ Ideally, the control framework should be able to combine the advantages of both 
 significant challenge.
 
 # The Algorithm :
+
+Make both figure in one figure. With arrows or more dynamic look.. May be that makes it more good. Q
+
 <p align="center"><img src = "./media/1.png"/><br><em>Overview of Algorithm in Brief</em></p>
 <br>
 <p align="center">The following flowchart gives a good overview of the algorithm I have used in this project.</p>
