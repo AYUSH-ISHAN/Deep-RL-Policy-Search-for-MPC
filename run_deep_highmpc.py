@@ -19,7 +19,7 @@ from dataset_maker import Collector
 #
 def arg_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--option', type=int, default=2,
+    parser.add_argument('--option', type=int, default=0,
         help="0 - Data collection; 1 - train the deep high-level policy; 2 - test the trained policy.")
     parser.add_argument('--save_dir', type=str, default=os.path.dirname(os.path.realpath(__file__)),
         help="Directory where to save the checkpoints and training metrics")
